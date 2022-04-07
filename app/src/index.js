@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//TODO:the reactDOM is oboslete. This may cause issues
+//later. This has to change to the root clause.
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
