@@ -1,0 +1,4 @@
+- How does dom works ?
+- does react compile or interpret
+- react to json:
+   - linear display
