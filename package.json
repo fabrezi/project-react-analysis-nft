@@ -1,0 +1,14 @@
+{
+  "name": "project-react-analysis-nft",
+  "version": "1.0.0",
+  "description": "Data Visualization tool for UI interface ",
+  "main": "index.js",
+  "repository": "https://github.com/fabrezi/project-react-analysis-nft.git",
+  "author": "mowgli",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "create-react-app": "^5.0.0",
+    "react": "^18.0.0"
+  }
+}
