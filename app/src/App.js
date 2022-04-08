@@ -7,7 +7,17 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>NFT Data Visualization Test</p>
-        <a></a>
+          <table>
+            <tr>
+              <th>id</th>
+              <th>num_sales</th>
+            </tr>
+            <tr>
+              <td>	158831</td>
+              <td>3</td>
+            </tr>
+          </table>
+          
         <img  src={Loggo} alt="fireSpot"/>
         <a
           className="App-link"
