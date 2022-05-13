@@ -9,9 +9,12 @@ BNF-Form must be followed. In this construct we have the following parts: Defini
 
 Def:= React (2013) is a JS library used to built web-based UI. Designed by FB team. Author denoted. Important concepts that makes React is JSX, DOM,and hooks.
 
-      - JSX means JS XML. It is a syntax to write mark up in JS with HTML attributes.
+      - JSX means JS XML. It is a syntax to write mark up in JS with HTML attributes. The actual name of JS is ECMAScript. ECMA is European Computer Manufacturer Association. It keeps checks on the IT tools standard. JS is a bundled language that borrows the following from different languages:  Java (syntax, primitive values versus objects), Scheme
+      and AWK (first-class functions), Self (prototypal inheritance), and Perl and Python
+      (strings, arrays, and regular expressions)
+      
       - DOM: stands for Domain Object Model:
-      - Hooks:
+      - Components:
 
 # Requirements
 
